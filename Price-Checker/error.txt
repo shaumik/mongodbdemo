@@ -1,0 +1,124 @@
+1	Error from getting products from <http://us.norton.com/products/>
+1	Error from getting products from <http://us.norton.com/products/>
+1	Error from getting products from <http://us.norton.com/products/>
+6	Error from getting products from <http://ca.norton.com/products/>
+6	Error from getting products from <http://ca.norton.com/products/>
+6	Error from getting products from <http://ca.norton.com/products/>
+4	Error from getting products from <http://pr.norton.com/products/>
+4	Error from getting products from <http://pr.norton.com/products/>
+4	Error from getting products from <http://pr.norton.com/products/>
+2	Error from getting products from <http://cl.norton.com/products/>
+2	Error from getting products from <http://cl.norton.com/products/>
+2	Error from getting products from <http://cl.norton.com/products/>
+11	Error from getting products from <http://dk.norton.com/products/>
+11	Error from getting products from <http://dk.norton.com/products/>
+11	Error from getting products from <http://dk.norton.com/products/>
+9	Error from getting products from <http://be.norton.com/products/>
+9	Error from getting products from <http://be.norton.com/products/>
+10	Error from getting products from <http://cz.norton.com/products/>
+9	Error from getting products from <http://be.norton.com/products/>
+10	Error from getting products from <http://cz.norton.com/products/>
+10	Error from getting products from <http://cz.norton.com/products/>
+14	Error from getting products from <http://es.norton.com/products/>
+14	Error from getting products from <http://es.norton.com/products/>
+14	Error from getting products from <http://es.norton.com/products/>
+12	Error from getting products from <http://de.norton.com/products/>
+12	Error from getting products from <http://de.norton.com/products/>
+12	Error from getting products from <http://de.norton.com/products/>
+3	Error from getting products from <http://br.norton.com/products/>
+3	Error from getting products from <http://br.norton.com/products/>
+3	Error from getting products from <http://br.norton.com/products/>
+5	Error from getting products from <http://mx.norton.com/products/>
+5	Error from getting products from <http://mx.norton.com/products/>
+5	Error from getting products from <http://mx.norton.com/products/>
+15	Error from getting products from <http://fr.norton.com/products/>
+15	Error from getting products from <http://fr.norton.com/products/>
+15	Error from getting products from <http://fr.norton.com/products/>
+25	Error from getting products from <http://pt.norton.com/products/>
+7	Error from getting products from <http://ca-fr.norton.com/products/>
+25	Error from getting products from <http://pt.norton.com/products/>
+8	Error from getting products from <http://be-nl.norton.com/products/>
+7	Error from getting products from <http://ca-fr.norton.com/products/>
+7	Error from getting products from <http://ca-fr.norton.com/products/>
+8	Error from getting products from <http://be-nl.norton.com/products/>
+25	Error from getting products from <http://pt.norton.com/products/>
+8	Error from getting products from <http://be-nl.norton.com/products/>
+16	Error from getting products from <http://ie.norton.com/products/>
+16	Error from getting products from <http://ie.norton.com/products/>
+16	Error from getting products from <http://ie.norton.com/products/>
+26	Error from getting products from <http://ch.norton.com/products/>
+26	Error from getting products from <http://ch.norton.com/products/>
+26	Error from getting products from <http://ch.norton.com/products/>
+18	Error from getting products from <http://it.norton.com/products/>
+22	Error from getting products from <http://nl.norton.com/products/>
+22	Error from getting products from <http://nl.norton.com/products/>
+22	Error from getting products from <http://nl.norton.com/products/>
+18	Error from getting products from <http://it.norton.com/products/>
+18	Error from getting products from <http://it.norton.com/products/>
+17	Error from getting products from <http://uk.norton.com/products/>
+17	Error from getting products from <http://uk.norton.com/products/>
+17	Error from getting products from <http://uk.norton.com/products/>
+21	Error from getting products from <http://hu.norton.com/products/>
+21	Error from getting products from <http://hu.norton.com/products/>
+21	Error from getting products from <http://hu.norton.com/products/>
+30	Error from getting products from <http://tr.norton.com/products/>
+30	Error from getting products from <http://tr.norton.com/products/>
+30	Error from getting products from <http://tr.norton.com/products/>
+23	Error from getting products from <http://no.norton.com/products/>
+23	Error from getting products from <http://no.norton.com/products/>
+23	Error from getting products from <http://no.norton.com/products/>
+27	Error from getting products from <http://za.norton.com/products/>
+27	Error from getting products from <http://za.norton.com/products/>
+27	Error from getting products from <http://za.norton.com/products/>
+28	Error from getting products from <http://fi.norton.com/products/>
+28	Error from getting products from <http://fi.norton.com/products/>
+28	Error from getting products from <http://fi.norton.com/products/>
+38	Error from getting products from <http://malaysia.norton.com/products/>
+33	Error from getting products from <http://ru.norton.com/products/>
+33	Error from getting products from <http://ru.norton.com/products/>
+38	Error from getting products from <http://malaysia.norton.com/products/>
+38	Error from getting products from <http://malaysia.norton.com/products/>
+33	Error from getting products from <http://ru.norton.com/products/>
+24	Error from getting products from <http://pl.norton.com/products/>
+24	Error from getting products from <http://pl.norton.com/products/>
+24	Error from getting products from <http://pl.norton.com/products/>
+39	Error from getting products from <http://sg.norton.com/products/>
+39	Error from getting products from <http://sg.norton.com/products/>
+39	Error from getting products from <http://sg.norton.com/products/>
+32	Error from getting products from <http://gr.norton.com/products/>
+32	Error from getting products from <http://gr.norton.com/products/>
+32	Error from getting products from <http://gr.norton.com/products/>
+29	Error from getting products from <http://se.norton.com/products/>
+29	Error from getting products from <http://se.norton.com/products/>
+29	Error from getting products from <http://se.norton.com/products/>
+34	Error from getting products from <http://il.norton.com/products/>
+34	Error from getting products from <http://il.norton.com/products/>
+34	Error from getting products from <http://il.norton.com/products/>
+35	Error from getting products from <http://au.norton.com/products/>
+35	Error from getting products from <http://au.norton.com/products/>
+35	Error from getting products from <http://au.norton.com/products/>
+37	Error from getting products from <http://in.norton.com/products/>
+37	Error from getting products from <http://in.norton.com/products/>
+37	Error from getting products from <http://in.norton.com/products/>
+31	Error from getting products from <http://ae.norton.com/products/>
+31	Error from getting products from <http://ae.norton.com/products/>
+31	Error from getting products from <http://ae.norton.com/products/>
+36	Error from getting products from <http://nz.norton.com/products/>
+36	Error from getting products from <http://nz.norton.com/products/>
+36	Error from getting products from <http://nz.norton.com/products/>
+41	<<ERROR>> found at(outer):	http://home.mcafee.com/	not viewing HTML
+43	(inner) string index out of range @:	</> in <http://usa.kaspersky.com/products-services/home-computer-security/>
+43	(inner) string index out of range @:	</> in <http://usa.kaspersky.com/products-services/home-computer-security/>
+41	<<ERROR>> found at(outer):	http://home.mcafee.com/Default.aspx	not viewing HTML
+43	(inner) string index out of range @:	</> in <http://usa.kaspersky.com/>
+41	<<ERROR>> found at(outer):	http://home.mcafee.com/root/campaign.aspx	not viewing HTML
+41	<<ERROR>> found at(outer):	http://home.mcafee.com/root/myaccount.aspx	not viewing HTML
+41	<<ERROR>> found at(outer):	http://home.mcafee.com/Secure/MyAccount/DashBoard.aspx	not viewing HTML
+41	<<ERROR>> found at(outer):	http://home.mcafee.com/Secure/Protected/MyAccountInfo.aspx	not viewing HTML
+41	<<ERROR>> found at(outer):	http://home.mcafee.com/Secure/Protected/AutoRenew.aspx	not viewing HTML
+41	<<ERROR>> found at(outer):	http://home.mcafee.com/store/ProductRenew.aspx	not viewing HTML
+41	<<ERROR>> found at(outer):	http://home.mcafee.com/Secure/Protected/UpdateProfile.aspx	not viewing HTML
+41	<<ERROR>> found at(outer):	http://home.mcafee.com/secure/protected/editbilling.aspx	not viewing HTML
+41	<<ERROR>> found at(outer):	http://home.mcafee.com/store/store/ProductComparison.aspx	HTTP Error 404: Not Found
+41	<<ERROR>> found at(outer):	http://home.mcafee.com/store/root/campaign.aspx	HTTP Error 404: Not Found
+41	<<ERROR>> found at(outer):	http://home.mcafee.com/store/store/packagedetail.aspx	HTTP Error 404: Not Found

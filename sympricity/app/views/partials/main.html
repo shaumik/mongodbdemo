@@ -1,0 +1,24 @@
+<div ng-include="'partials/navbar'"></div>
+
+<div class="jumbotron" style="align:centre">
+  <div ng-show="currentUser">
+  <h2>Hey <span ng-show="currentUser">{{ currentUser.name }}</span>! </h2></div>
+  <h2>Welcome to Symantec's own price tracker! </h2>
+  <div ng-show="currentUser" class="ng-hide">
+    <a href="dashboard"<button class="btn btn-success">Take me to the DashBoard</button></a>
+  </div>
+  <div ng-show="!currentUser" class="ng-hide">
+    <a href="login"><button class="btn btn-primary">Login</button></a>
+  </div>
+  <p class="lead">
+    
+
+  </p>
+</div>
+</div>
+
+
+
+<div class="footer">
+  <p>♥ from the Interns</p>
+</div>

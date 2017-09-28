@@ -1,0 +1,9 @@
+{
+	"user": "WAT",	
+	"pass": "Symantec@123",
+	"host": "exftpp.symantec.com",
+	"remotepath":"/NortonPricing/",
+	"port": 3331,
+	"filepath":"/tmp/product_price.csv"
+}
+

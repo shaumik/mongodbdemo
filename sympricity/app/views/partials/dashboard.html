@@ -1,0 +1,23 @@
+<div ng-include="'partials/navbar.html'"></div>
+<h1>
+ Dashboard
+</h1>
+<form class="form-group" role="form" ng-submit="addProduct()">
+	<div class="row">
+		<div class = "col-lg-4">
+			<input type="text" class="form-control"id="newProduct" placeholder="enter new product name here" ng-model="formData.name">
+		</div>
+		<div class="col-lg-4">
+			<button class="btn btn-primary" type="submit">Add Product</button>	
+		</div>	
+	</div>	
+</form>
+
+<div ng-repeat="product in products | orderBy:'name'">
+	{{product.name }}
+	<span><button class="btn btn-primary">Edit</button></span>
+	<span><button class="btn btn-primary">Delete</button></span>
+
+</div>
+
+

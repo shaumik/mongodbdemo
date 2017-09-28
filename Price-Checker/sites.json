@@ -1,0 +1,435 @@
+[
+	{
+		"URL" : "http://us.norton.com/products/",
+		"products" : [
+			"Norton 360",
+			"Norton 360 Multi-Device",
+			"Norton Internet Security",
+			"Norton AntiVirus"
+		],
+		"checked" : 0
+	},
+	{
+		"URL" : "http://cl.norton.com/products/",
+		"products" : [
+			"Norton 360",
+			"Norton 360 Multi-Device",
+			"Norton Internet Security",
+			"Norton AntiVirus"
+		],
+		"checked" : 0
+	},
+	{
+		"URL" : "http://br.norton.com/products/",
+		"products" : [
+			"Norton 360",
+			"Norton 360 Multi-Device",
+			"Norton Internet Security",
+			"Norton AntiVirus"
+		],
+		"checked" : 0
+	},
+	{
+		"URL" : "http://pr.norton.com/products/",
+		"products" : [
+			"Norton 360",
+			"Norton 360 Multi-Device",
+			"Norton Internet Security",
+			"Norton AntiVirus"
+		],
+		"checked" : 0
+	},
+	{
+		"URL" : "http://mx.norton.com/products/",
+		"products" : [
+			"Norton 360",
+			"Norton 360 Multi-Device",
+			"Norton Internet Security",
+			"Norton AntiVirus"
+		],
+		"checked" : 0
+	},
+	{
+		"URL" : "http://ca.norton.com/products/",
+		"products" : [
+			"Norton 360",
+			"Norton 360 Multi-Device",
+			"Norton Internet Security",
+			"Norton AntiVirus"
+		],
+		"checked" : 0
+	},
+	{
+		"URL" : "http://ca-fr.norton.com/products/",
+		"products" : [
+			"Norton 360",
+			"Norton 360 Multi-Device",
+			"Norton Internet Security",
+			"Norton AntiVirus"
+		],
+		"checked" : 0
+	},
+	{
+		"URL" : "http://be-nl.norton.com/products/",
+		"products" : [
+			"Norton 360",
+			"Norton 360 Multi-Device",
+			"Norton Internet Security",
+			"Norton AntiVirus"
+		],
+		"checked" : 0
+	},
+	{
+		"URL" : "http://be.norton.com/products/",
+		"products" : [
+			"Norton 360",
+			"Norton 360 Multi-Device",
+			"Norton Internet Security",
+			"Norton AntiVirus"
+		],
+		"checked" : 0
+	},
+	{
+		"URL" : "http://cz.norton.com/products/",
+		"products" : [
+			"Norton 360",
+			"Norton 360 Multi-Device",
+			"Norton Internet Security",
+			"Norton AntiVirus"
+		],
+		"checked" : 0
+	},
+	{
+		"URL" : "http://dk.norton.com/products/",
+		"products" : [
+			"Norton 360",
+			"Norton 360 Multi-Device",
+			"Norton Internet Security",
+			"Norton AntiVirus"
+		],
+		"checked" : 0
+	},
+	{
+		"URL" : "http://de.norton.com/products/",
+		"products" : [
+			"Norton 360",
+			"Norton 360 Multi-Device",
+			"Norton Internet Security",
+			"Norton AntiVirus"
+		],
+		"checked" : 0
+	},
+	{
+		"URL" : "http://ee.norton.com/products/",
+		"products" : [
+			"Norton 360",
+			"Norton 360 Multi-Device",
+			"Norton Internet Security",
+			"Norton AntiVirus"
+		],
+		"checked" : 0
+	},
+	{
+		"URL" : "http://es.norton.com/products/",
+		"products" : [
+			"Norton 360",
+			"Norton 360 Multi-Device",
+			"Norton Internet Security",
+			"Norton AntiVirus"
+		],
+		"checked" : 0
+	},
+	{
+		"URL" : "http://fr.norton.com/products/",
+		"products" : [
+			"Norton 360",
+			"Norton 360 Multi-Device",
+			"Norton Internet Security",
+			"Norton AntiVirus"
+		],
+		"checked" : 0
+	},
+	{
+		"URL" : "http://ie.norton.com/products/",
+		"products" : [
+			"Norton 360",
+			"Norton 360 Multi-Device",
+			"Norton Internet Security",
+			"Norton AntiVirus"
+		],
+		"checked" : 0
+	},
+	{
+		"URL" : "http://uk.norton.com/products/",
+		"products" : [
+			"Norton 360",
+			"Norton 360 Multi-Device",
+			"Norton Internet Security",
+			"Norton AntiVirus"
+		],
+		"checked" : 0
+	},
+	{
+		"URL" : "http://it.norton.com/products/",
+		"products" : [
+			"Norton 360",
+			"Norton 360 Multi-Device",
+			"Norton Internet Security",
+			"Norton AntiVirus"
+		],
+		"checked" : 0
+	},
+	{
+		"URL" : "http://lv.norton.com/products/",
+		"products" : [
+			"Norton 360",
+			"Norton 360 Multi-Device",
+			"Norton Internet Security",
+			"Norton AntiVirus"
+		],
+		"checked" : 0
+	},
+	{
+		"URL" : "http://lt.norton.com/products/",
+		"products" : [
+			"Norton 360",
+			"Norton 360 Multi-Device",
+			"Norton Internet Security",
+			"Norton AntiVirus"
+		],
+		"checked" : 0
+	},
+	{
+		"URL" : "http://hu.norton.com/products/",
+		"products" : [
+			"Norton 360",
+			"Norton 360 Multi-Device",
+			"Norton Internet Security",
+			"Norton AntiVirus"
+		],
+		"checked" : 0
+	},
+	{
+		"URL" : "http://nl.norton.com/products/",
+		"products" : [
+			"Norton 360",
+			"Norton 360 Multi-Device",
+			"Norton Internet Security",
+			"Norton AntiVirus"
+		],
+		"checked" : 0
+	},
+	{
+		"URL" : "http://no.norton.com/products/",
+		"products" : [
+			"Norton 360",
+			"Norton 360 Multi-Device",
+			"Norton Internet Security",
+			"Norton AntiVirus"
+		],
+		"checked" : 0
+	},
+	{
+		"URL" : "http://pl.norton.com/products/",
+		"products" : [
+			"Norton 360",
+			"Norton 360 Multi-Device",
+			"Norton Internet Security",
+			"Norton AntiVirus"
+		],
+		"checked" : 0
+	},
+	{
+		"URL" : "http://pt.norton.com/products/",
+		"products" : [
+			"Norton 360",
+			"Norton 360 Multi-Device",
+			"Norton Internet Security",
+			"Norton AntiVirus"
+		],
+		"checked" : 0
+	},
+	{
+		"URL" : "http://ch.norton.com/products/",
+		"products" : [
+			"Norton 360",
+			"Norton 360 Multi-Device",
+			"Norton Internet Security",
+			"Norton AntiVirus"
+		],
+		"checked" : 0
+	},
+	{
+		"URL" : "http://za.norton.com/products/",
+		"products" : [
+			"Norton 360",
+			"Norton 360 Multi-Device",
+			"Norton Internet Security",
+			"Norton AntiVirus"
+		],
+		"checked" : 0
+	},
+	{
+		"URL" : "http://fi.norton.com/products/",
+		"products" : [
+			"Norton 360",
+			"Norton 360 Multi-Device",
+			"Norton Internet Security",
+			"Norton AntiVirus"
+		],
+		"checked" : 0
+	},
+	{
+		"URL" : "http://se.norton.com/products/",
+		"products" : [
+			"Norton 360",
+			"Norton 360 Multi-Device",
+			"Norton Internet Security",
+			"Norton AntiVirus"
+		],
+		"checked" : 0
+	},
+	{
+		"URL" : "http://tr.norton.com/products/",
+		"products" : [
+			"Norton 360",
+			"Norton 360 Multi-Device",
+			"Norton Internet Security",
+			"Norton AntiVirus"
+		],
+		"checked" : 0
+	},
+	{
+		"URL" : "http://ae.norton.com/products/",
+		"products" : [
+			"Norton 360",
+			"Norton 360 Multi-Device",
+			"Norton Internet Security",
+			"Norton AntiVirus"
+		],
+		"checked" : 0
+	},
+	{
+		"URL" : "http://gr.norton.com/products/",
+		"products" : [
+			"Norton 360",
+			"Norton 360 Multi-Device",
+			"Norton Internet Security",
+			"Norton AntiVirus"
+		],
+		"checked" : 0
+	},
+	{
+		"URL" : "http://ru.norton.com/products/",
+		"products" : [
+			"Norton 360",
+			"Norton 360 Multi-Device",
+			"Norton Internet Security",
+			"Norton AntiVirus"
+		],
+		"checked" : 0
+	},
+	{
+		"URL" : "http://il.norton.com/products/",
+		"products" : [
+			"Norton 360",
+			"Norton 360 Multi-Device",
+			"Norton Internet Security",
+			"Norton AntiVirus"
+		],
+		"checked" : 0
+	},
+	{
+		"URL" : "http://au.norton.com/products/",
+		"products" : [
+			"Norton 360",
+			"Norton 360 Multi-Device",
+			"Norton Internet Security",
+			"Norton AntiVirus"
+		],
+		"checked" : 0
+	},
+	{
+		"URL" : "http://nz.norton.com/products/",
+		"products" : [
+			"Norton 360",
+			"Norton 360 Multi-Device",
+			"Norton Internet Security",
+			"Norton AntiVirus"
+		],
+		"checked" : 0
+	},
+	{
+		"URL" : "http://in.norton.com/products/",
+		"products" : [
+			"Norton 360",
+			"Norton 360 Multi-Device",
+			"Norton Internet Security",
+			"Norton AntiVirus"
+		],
+		"checked" : 0
+	},
+	{
+		"URL" : "http://malaysia.norton.com/products/",
+		"products" : [
+			"Norton 360",
+			"Norton 360 Multi-Device",
+			"Norton Internet Security",
+			"Norton AntiVirus"
+		],
+		"checked" : 0
+	},
+	{
+		"URL" : "http://sg.norton.com/products/",
+		"products" : [
+			"Norton 360",
+			"Norton 360 Multi-Device",
+			"Norton Internet Security",
+			"Norton AntiVirus"
+		],
+		"checked" : 0
+	},
+	{
+		"URL" : "http://www.avast.com/en-us/index",
+		"products" : [
+			"avast! Pro Antivirus",
+			"avast! Internet Security",
+			"avast! Premier"
+		],
+		"checked" : 0
+	},
+	{
+		"URL" : "http://home.mcafee.com/store",
+		"products" : [
+			"McAfee LiveSafe",
+			"McAfee Internet Security",
+			"McAfee Total Protection",
+			"McAfee AntiVirus Plus",
+			"McAfee All Access",
+			"McAfee Internet Security for Mac"
+		],
+		"checked" : 0
+	},
+	{
+		"URL" : "http://www.trendmicro.com/us/index.html",
+		"products" : [
+			"Titanium Premium Security",
+			"Titanium Maximum Security",
+			"Titanium Internet Security",
+			"Titanium Antivirus + Security",
+			"Trend Micro Antivirus for Mac"
+		],
+		"checked" : 0
+	},
+	{
+		"URL" : "http://usa.kaspersky.com/products-services/home-computer-security/",
+		"products" : [
+			"Kaspersky Internet Security 2015",
+			"Kaspersky Internet Security for Mac",
+			"Kaspersky Anti-Virus 2015",
+			"Kaspersky Internet Security - Multi-Device 2015",
+			"Kaspersky PURE 3.0 Total Security"
+		],
+		"checked" : 0
+	}
+]
